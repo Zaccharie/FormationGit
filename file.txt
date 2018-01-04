@@ -1,3 +1,4 @@
 Gary Holt
 Jim Root
 Bill Kelliher
+Brent Hinds
