@@ -4,4 +4,4 @@ Bill Kelliher - Mastodon
 Brent Hinds - Mastodon
 Joe Duplantier - Gojira
 
-#Todo : Ajouter le materiel des guitaristes
+#Todo : Ajouter le materiel des guitaristes + photos
